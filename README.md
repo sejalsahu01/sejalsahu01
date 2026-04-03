@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 About Me
-- 🔹 Passionate about **AI, Data Science, and Automation**
-- 🔹 Skilled in building **AI-powered applications & workflows**
-- 🔹 Interested in solving real-world problems using data
+🔹 Passionate about **AI, Data Science, and Automation**
+🔹 Skilled in building **AI-powered applications & workflows**
+🔹 Interested in solving real-world problems using data
 
 ---
 
@@ -43,7 +43,7 @@
 ---
 
 ## ⚡ Fun Fact
-- I love turning ideas into real-world AI solutions 🚀
+ I love turning ideas into real-world AI solutions 🚀
 
 ---
 
