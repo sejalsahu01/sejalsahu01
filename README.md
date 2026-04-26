@@ -4,10 +4,11 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 - 🔹 Passionate about **AI, Data Science, and Automation**
 - 🔹 Skilled in building **AI-powered applications & workflows**
 - 🔹 Interested in solving real-world problems using data
+- 🌐 **More about me:** [sejalsahu.netlify.app](https://sejalsahu.netlify.app/)
 
 ---
 
